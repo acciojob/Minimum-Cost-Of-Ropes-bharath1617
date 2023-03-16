@@ -17,7 +17,7 @@ function calculateMinCost() {
 			return a-b; });
 	}
 	 alert(cost);
-  document.querySelector("#result").textcontent = cost;
+  document.querySelector("result").textcontent = cost;
   
   
 }  
